@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=400&section=header&text=안녕하세요%20정주입니다&fontSize=40" />
+
  <img src="https://img.shields.io/badge/Python-541BAE?style=squre&logo=alienware&logoColor=white"/>  <img src="https://img.shields.io/badge/C-2AA5DC?style=squre&logo=apachecloudstack&logoColor=white"/>
 
 [![Solved.ac
