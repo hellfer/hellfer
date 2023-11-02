@@ -30,7 +30,6 @@
 
 
 
-# 백준티어
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bdwife)](https://solved.ac/bdwife)
 
