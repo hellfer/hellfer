@@ -22,14 +22,12 @@
 
 
 
- 
- # 💪Skills
-### Platforms & Languages
- <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=squre&logo=github&logoColor=white">
-
-
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellfer&show_icons=true&theme=radical)    [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bdwife)](https://solved.ac/bdwife) 
+
+
+
+ # 💪Skills
+### Platforms & Languages
+ <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=squre&logo=github&logoColor=white">
