@@ -20,12 +20,17 @@
 - ⚡ Fun fact - 하루하루 열심히 살자! 기업코테를 뚫는 그날까지!
 </p>
 
+
+
  
  # 💪Skills
 ### Platforms & Languages
  <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=squre&logo=github&logoColor=white">
 
-### 백준티어
+
+
+
+# 백준티어
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bdwife)](https://solved.ac/bdwife)
 
