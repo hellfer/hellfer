@@ -1,5 +1,9 @@
 ### 안녕하세요! 👋
 
+<p align="center">
+🚀 저는 한밭대학교 재학 중이며 알고리즘에 관심이 있어 꾸준히 공부하는 학생입니다! 👩‍🚀
+</p>
+
 <!--
 **hellfer/hellfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
