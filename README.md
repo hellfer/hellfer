@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
  
- <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
 [![Solved.ac
