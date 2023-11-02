@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=400&section=header&text=Hello%20i'm%20hellfer&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=Hello%20i'm%20jeongju&fontSize=50" />
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/>
 
