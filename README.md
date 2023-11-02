@@ -18,13 +18,17 @@ Here are some ideas to get you started:
 
 ### 안녕하세요! 👋
 
+
 <p align="left">
 🚀 저는 한밭대학교 재학 중이며 알고리즘에 관심이 있어 꾸준히 공부하는 학생입니다! 👩‍🚀
 </p>
 
+ 
  <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bdwife)](https://solved.ac/bdwife)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellfer&show_icons=true&theme=radical)
