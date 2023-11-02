@@ -1,34 +1,15 @@
-
-<!--
-**hellfer/hellfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=Hello%20i'm%20jeongju&fontSize=50" />
-
-
 ### 안녕하세요! 👋
 
 
 
 <p align="left">
-🚀 저는 한밭대학교 재학 중이며 알고리즘에 관심이 있어 꾸준히 공부하는 학생입니다! 👩‍🚀
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+🚀 저는 한밭대학교 재학 중이며 알고리즘에 관심이 있어 꾸준히 공부하는 학생입니다! 🚀
+- 🔭 I’m currently working on - hanbat university
+- 🌱 I’m currently learning - Python, C
+- 👯 I’m looking to collaborate on -게시판 만들기
+- 🤔 I’m looking for help with -알고리즘 초보자
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 이메일:bdwife134@naver.com, 깃허브:github.com/hellfer
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </p>
