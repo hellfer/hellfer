@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=Hello%20i'm%20jeongju&fontSize=50" />
 
-
 ### 안녕하세요! 👋
 
 <p align="left">
 🚀 저는 한밭대학교 재학 중이며 알고리즘에 관심이 있어 꾸준히 공부하는 학생입니다! 👩‍🚀
 </p>
-
 
  <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/>
 
