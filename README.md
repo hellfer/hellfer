@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hello!%20i'm%20jeongju&fontSize=40&fontAlignY=40&fontAlign=70&height=250" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hello!%20i'm%20jeongju&fontSize=40&fontAlignY=40&fontAlign=70" />
 
 ## 안녕하세요! 👋👋
 
