@@ -14,7 +14,7 @@
 
 -- 🤔 I’m looking for help with - Python_Algorithm, Coding test
   
--- 📫 How to reach me: 이메일  :  bdwife134@naver.com, 깃허브  :  github.com/hellfer
+-- 📫 How to reach me: 이메일  :  bdwife134@naver.com 깃허브  :  github.com/hellfer
   
 -- 👀 Fun fact - 하루하루 열심히 살자! 기업코테를 뚫는 그날까지!
 
