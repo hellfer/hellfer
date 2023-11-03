@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=안녕하세요!정주입니다&fontSize=30" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hello!i'm%20jeongju&fontSize=70" />
 
 ## 안녕하세요! 👋👋
 
