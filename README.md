@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=안녕하세요!정주입니다&fontSize=30" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 
 
