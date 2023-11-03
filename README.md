@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=Hello20%i'm%20jeong%20ju&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=&color=auto&height=400&section=header&text=Hello%20i'm%20jeong%20ju&fontSize=40" />
 
 
 
