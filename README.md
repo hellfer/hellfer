@@ -12,7 +12,7 @@
   
 -- 🍁 I’m looking to collaborate on - 게시판 만들기
 
--- 🤔 I’m looking for help with - Python_Algorithm, Coding test
+-- 🤔 I’m looking for help with - Python_Algorithm(Coding test)
   
 -- 📫 How to reach me: 이메일  :  bdwife134@naver.com 깃허브  :  github.com/hellfer
   
