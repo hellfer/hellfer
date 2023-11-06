@@ -22,7 +22,7 @@
 
 # 🔥Skills
 ### Platforms & Languages
- <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=squre&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=squre&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=squre&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=squre&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=square&logo=django&logoColor=white"/>
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ljsmn123@gmail.com)](mailto:ljsmn123@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bdwife134@naver.com)](mailto:bdwife134@naver.com)
