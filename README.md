@@ -10,7 +10,7 @@
 
 -- 💙 I’m currently learning - Python, C
   
--- 🍁 I’m looking to collaborate on - 게시판 만들기, 생물정보학, 캐글 프로젝트 (타이타닉 생존자 예측, 주택 가격 예측, Bioinformatics)
+-- 🍁 I’m looking to collaborate on - 게시판 만들기, 캐글 프로젝트 (타이타닉 생존자 예측, 주택 가격 예측)
 
 -- 🤔 I’m looking for help with - Python_Algorithm(Coding test), Data Analysis
   
