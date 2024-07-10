@@ -10,9 +10,9 @@
 
 -- 💙 I’m currently learning - Python, C
   
--- 🍁 I’m looking to collaborate on - 게시판 만들기, 생물정보학, 케글 프로젝트
+-- 🍁 I’m looking to collaborate on - 게시판 만들기, 생물정보학, 캐글 프로젝트(타이타닉 생존자 예측, 주택 가격 예측, Bioinformatics
 
--- 🤔 I’m looking for help with - Python_Algorithm(Coding test)
+-- 🤔 I’m looking for help with - Python_Algorithm(Coding test), Data Analysis
   
 -- 📫 How to reach me: 이메일  :  bdwife134@naver.com 깃허브  :  github.com/hellfer  티스토리  : https://bdwife134.tistory.com/
   
