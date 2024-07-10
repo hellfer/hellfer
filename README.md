@@ -10,7 +10,7 @@
 
 -- 💙 I’m currently learning - Python, C
   
--- 🍁 I’m looking to collaborate on - 게시판 만들기
+-- 🍁 I’m looking to collaborate on - 게시판 만들기, 생물정보학, 케글 프로젝트
 
 -- 🤔 I’m looking for help with - Python_Algorithm(Coding test)
   
